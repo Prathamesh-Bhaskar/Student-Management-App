@@ -1,0 +1,22 @@
+package com.student.manage;
+import java.sql.*;
+public class cp {
+	
+	Connection con;
+	public void createC() {
+		
+		try {
+			//load the driver
+			Class.forName("com.mysql.jdbc.Driver");
+			
+			// create connection.....
+	}
+		
+		
+		
+		
+		
+		catch(Exception E) {
+			
+		}
+}}
